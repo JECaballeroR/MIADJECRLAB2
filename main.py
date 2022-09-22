@@ -62,7 +62,6 @@ Se han elegido 3 gráficos para explorar los datos:
     - Este gráfico además, separa cada nivel según su nivel de desempeño
 - Un heatmap, para comparar las variables del modelo con la clasificación hecha del puntaje.
 
-
 Dados los resultados obtenidos en la exploración y modelado, un puntaje se considera bajo si es menor o igual a 294 (de 500)
 
 
