@@ -50,7 +50,8 @@ st.sidebar.markdown("# Dashboard de exploración")
 st.sidebar.image("logo.jpg", use_column_width=True)
 st.sidebar.markdown("## Fase 4 Entrega Laboratorio 2 de Jorge Esteban Caballero Rodríguez")
 
-st.sidebar.markdown("### Datos ICFES periodos 20211 y 20201")
+st.sidebar.markdown("### Datos ICFES periodos 20201 y 20211, obtenidos de "
+                    "[https://www.datos.gov.co/Educaci-n/Resultados-nicos-Saber-11/kgxf-xxbe/data](https://www.datos.gov.co/Educaci-n/Resultados-nicos-Saber-11/kgxf-xxbe/data)")
 st.sidebar.markdown("""A su derecha, tendrá una serie de gráficos con sus controles
 en la parte superior de los mismos.
 
@@ -63,6 +64,8 @@ Se han elegido 3 gráficos para explorar los datos:
 
 
 Dados los resultados obtenidos en la exploración y modelado, un puntaje se considera bajo si es menor o igual a 294 (de 500)
+
+
 En cambio, los puntajes altos serán los superiores s 294""")
 
 col1, col2=st.columns(2)
