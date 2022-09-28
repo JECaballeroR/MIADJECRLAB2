@@ -68,7 +68,8 @@ Se han elegido 3 gráficos para explorar los datos:
 - Un countplot, para ver la distribución de los niveles de las variables categóricas.
     - Este gráfico además, separa cada nivel según su nivel de desempeño. 
 - Un heatmap, para comparar las variables del modelo con la clasificación hecha del puntaje.
-    - Este 
+    - Este se usó en el proyecto para la interpretación del modelo de Clasificación.
+
 
 Dados los resultados obtenidos en la exploración y modelado, un puntaje se considera bajo si es menor o igual 
 a 294 (de 500)
